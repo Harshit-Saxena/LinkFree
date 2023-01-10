@@ -1,0 +1,19 @@
+{
+  "name": "Harshit Saxena",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Salesforce Developer who loves to learn and contribute to different projects",
+  "avatar": "https://github.com/Harshit-Saxena.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/harshit28s",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/harshit-saxena-40562b144/",
+      "icon": "FaLinkedIn"
+    }
+  ]
+}
